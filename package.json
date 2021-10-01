@@ -2,17 +2,27 @@
   "name": "gradex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ryanseebregts.github.io/gradex/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "@types/jest": "^26.0.15",
+    "@types/jquery": "^3.5.6",
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-router-dom": "^5.1.9",
+    "@types/styled-components": "^5.1.14",
+    "gh-pages": "^3.2.3",
+    "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
+    "styled-components": "^5.3.1",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
@@ -20,7 +30,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
