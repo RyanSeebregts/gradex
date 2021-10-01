@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gradex/static/css/main.8c6b322e.chunk.css",
+    "main.js": "/gradex/static/js/main.b945d12d.chunk.js",
+    "main.js.map": "/gradex/static/js/main.b945d12d.chunk.js.map",
+    "runtime-main.js": "/gradex/static/js/runtime-main.5798f90a.js",
+    "runtime-main.js.map": "/gradex/static/js/runtime-main.5798f90a.js.map",
+    "static/js/2.4f9a5a5c.chunk.js": "/gradex/static/js/2.4f9a5a5c.chunk.js",
+    "static/js/2.4f9a5a5c.chunk.js.map": "/gradex/static/js/2.4f9a5a5c.chunk.js.map",
+    "static/js/3.98f76648.chunk.js": "/gradex/static/js/3.98f76648.chunk.js",
+    "static/js/3.98f76648.chunk.js.map": "/gradex/static/js/3.98f76648.chunk.js.map",
+    "index.html": "/gradex/index.html",
+    "static/css/main.8c6b322e.chunk.css.map": "/gradex/static/css/main.8c6b322e.chunk.css.map",
+    "static/js/2.4f9a5a5c.chunk.js.LICENSE.txt": "/gradex/static/js/2.4f9a5a5c.chunk.js.LICENSE.txt",
+    "static/media/elem1.f9f523b2.svg": "/gradex/static/media/elem1.f9f523b2.svg",
+    "static/media/elem2.85fcc3f2.svg": "/gradex/static/media/elem2.85fcc3f2.svg",
+    "static/media/elem3.c5abd0ca.svg": "/gradex/static/media/elem3.c5abd0ca.svg",
+    "static/media/elem4.0765fe9d.svg": "/gradex/static/media/elem4.0765fe9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5798f90a.js",
+    "static/js/2.4f9a5a5c.chunk.js",
+    "static/css/main.8c6b322e.chunk.css",
+    "static/js/main.b945d12d.chunk.js"
+  ]
+}
