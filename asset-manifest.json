@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gradex/static/css/main.28428c12.chunk.css",
-    "main.js": "/gradex/static/js/main.e3d2df80.chunk.js",
-    "main.js.map": "/gradex/static/js/main.e3d2df80.chunk.js.map",
+    "main.js": "/gradex/static/js/main.c5a62fae.chunk.js",
+    "main.js.map": "/gradex/static/js/main.c5a62fae.chunk.js.map",
     "runtime-main.js": "/gradex/static/js/runtime-main.b2930f6c.js",
     "runtime-main.js.map": "/gradex/static/js/runtime-main.b2930f6c.js.map",
     "static/js/2.c675dfe1.chunk.js": "/gradex/static/js/2.c675dfe1.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.b2930f6c.js",
     "static/js/2.c675dfe1.chunk.js",
     "static/css/main.28428c12.chunk.css",
-    "static/js/main.e3d2df80.chunk.js"
+    "static/js/main.c5a62fae.chunk.js"
   ]
 }
