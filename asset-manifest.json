@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gradex/static/css/main.8c6b322e.chunk.css",
-    "main.js": "/gradex/static/js/main.76169762.chunk.js",
-    "main.js.map": "/gradex/static/js/main.76169762.chunk.js.map",
+    "main.js": "/gradex/static/js/main.efd9bc3e.chunk.js",
+    "main.js.map": "/gradex/static/js/main.efd9bc3e.chunk.js.map",
     "runtime-main.js": "/gradex/static/js/runtime-main.b2930f6c.js",
     "runtime-main.js.map": "/gradex/static/js/runtime-main.b2930f6c.js.map",
     "static/js/2.c675dfe1.chunk.js": "/gradex/static/js/2.c675dfe1.chunk.js",
@@ -15,12 +15,13 @@
     "static/media/elem1.f9f523b2.svg": "/gradex/static/media/elem1.f9f523b2.svg",
     "static/media/elem2.85fcc3f2.svg": "/gradex/static/media/elem2.85fcc3f2.svg",
     "static/media/elem3.c5abd0ca.svg": "/gradex/static/media/elem3.c5abd0ca.svg",
-    "static/media/elem4.0765fe9d.svg": "/gradex/static/media/elem4.0765fe9d.svg"
+    "static/media/elem4.0765fe9d.svg": "/gradex/static/media/elem4.0765fe9d.svg",
+    "static/media/elem5.80f69cfc.svg": "/gradex/static/media/elem5.80f69cfc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b2930f6c.js",
     "static/js/2.c675dfe1.chunk.js",
     "static/css/main.8c6b322e.chunk.css",
-    "static/js/main.76169762.chunk.js"
+    "static/js/main.efd9bc3e.chunk.js"
   ]
 }
