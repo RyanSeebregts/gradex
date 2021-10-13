@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gradex/static/css/main.8c6b322e.chunk.css",
-    "main.js": "/gradex/static/js/main.efd9bc3e.chunk.js",
-    "main.js.map": "/gradex/static/js/main.efd9bc3e.chunk.js.map",
+    "main.css": "/gradex/static/css/main.28428c12.chunk.css",
+    "main.js": "/gradex/static/js/main.e3d2df80.chunk.js",
+    "main.js.map": "/gradex/static/js/main.e3d2df80.chunk.js.map",
     "runtime-main.js": "/gradex/static/js/runtime-main.b2930f6c.js",
     "runtime-main.js.map": "/gradex/static/js/runtime-main.b2930f6c.js.map",
     "static/js/2.c675dfe1.chunk.js": "/gradex/static/js/2.c675dfe1.chunk.js",
@@ -10,8 +10,9 @@
     "static/js/3.ff7e63e7.chunk.js": "/gradex/static/js/3.ff7e63e7.chunk.js",
     "static/js/3.ff7e63e7.chunk.js.map": "/gradex/static/js/3.ff7e63e7.chunk.js.map",
     "index.html": "/gradex/index.html",
-    "static/css/main.8c6b322e.chunk.css.map": "/gradex/static/css/main.8c6b322e.chunk.css.map",
+    "static/css/main.28428c12.chunk.css.map": "/gradex/static/css/main.28428c12.chunk.css.map",
     "static/js/2.c675dfe1.chunk.js.LICENSE.txt": "/gradex/static/js/2.c675dfe1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gradex/static/media/FredokaOne-Regular.3888a8fd.ttf",
     "static/media/elem1.f9f523b2.svg": "/gradex/static/media/elem1.f9f523b2.svg",
     "static/media/elem2.85fcc3f2.svg": "/gradex/static/media/elem2.85fcc3f2.svg",
     "static/media/elem3.c5abd0ca.svg": "/gradex/static/media/elem3.c5abd0ca.svg",
@@ -21,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2930f6c.js",
     "static/js/2.c675dfe1.chunk.js",
-    "static/css/main.8c6b322e.chunk.css",
-    "static/js/main.efd9bc3e.chunk.js"
+    "static/css/main.28428c12.chunk.css",
+    "static/js/main.e3d2df80.chunk.js"
   ]
 }
